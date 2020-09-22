@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: e5618790ddd1b40438dd802fec40817f
+=======
+guid: ef31d8ae34a084f439e408fda2dc34df
+>>>>>>> Scenebuilder
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
