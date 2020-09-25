@@ -1,0 +1,7 @@
+C:\Users\espen.stenerud\source\repos\OOPexample\OOPexample\bin\Debug\OOPexample.exe.config
+C:\Users\espen.stenerud\source\repos\OOPexample\OOPexample\bin\Debug\OOPexample.exe
+C:\Users\espen.stenerud\source\repos\OOPexample\OOPexample\bin\Debug\OOPexample.pdb
+C:\Users\espen.stenerud\source\repos\OOPexample\OOPexample\obj\Debug\OOPexample.csprojAssemblyReference.cache
+C:\Users\espen.stenerud\source\repos\OOPexample\OOPexample\obj\Debug\OOPexample.csproj.CoreCompileInputs.cache
+C:\Users\espen.stenerud\source\repos\OOPexample\OOPexample\obj\Debug\OOPexample.exe
+C:\Users\espen.stenerud\source\repos\OOPexample\OOPexample\obj\Debug\OOPexample.pdb

@@ -1,0 +1,13 @@
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\bin\Debug\netcoreapp3.1\Day_3_Prog.exe
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\bin\Debug\netcoreapp3.1\Day_3_Prog.deps.json
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\bin\Debug\netcoreapp3.1\Day_3_Prog.runtimeconfig.json
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\bin\Debug\netcoreapp3.1\Day_3_Prog.runtimeconfig.dev.json
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\bin\Debug\netcoreapp3.1\Day_3_Prog.dll
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\bin\Debug\netcoreapp3.1\Day_3_Prog.pdb
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\obj\Debug\netcoreapp3.1\Day_3_Prog.csprojAssemblyReference.cache
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\obj\Debug\netcoreapp3.1\Day_3_Prog.AssemblyInfoInputs.cache
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\obj\Debug\netcoreapp3.1\Day_3_Prog.AssemblyInfo.cs
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\obj\Debug\netcoreapp3.1\Day_3_Prog.csproj.CoreCompileInputs.cache
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\obj\Debug\netcoreapp3.1\Day_3_Prog.dll
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\obj\Debug\netcoreapp3.1\Day_3_Prog.pdb
+C:\Users\espen.stenerud\source\repos\Day_3_Prog\Day_3_Prog\obj\Debug\netcoreapp3.1\Day_3_Prog.genruntimeconfig.cache
